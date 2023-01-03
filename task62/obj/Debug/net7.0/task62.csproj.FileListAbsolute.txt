@@ -1,0 +1,15 @@
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/bin/Debug/net7.0/task62
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/bin/Debug/net7.0/task62.deps.json
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/bin/Debug/net7.0/task62.runtimeconfig.json
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/bin/Debug/net7.0/task62.dll
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/bin/Debug/net7.0/task62.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.csproj.AssemblyReference.cache
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.AssemblyInfoInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.AssemblyInfo.cs
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.dll
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/refint/task62.dll
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/task62.genruntimeconfig.cache
+/Users/tanya/Desktop/Учеба/С#/Sem8/task62/obj/Debug/net7.0/ref/task62.dll
